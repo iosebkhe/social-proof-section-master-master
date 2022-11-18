@@ -9,7 +9,7 @@ This is a solution to the [Social Proof Section](https://www.frontendmentor.io/c
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/social-proof-challenge-H139PZA75)
-- Live Site URL: [Click here]()
+- Live Site URL: [Click here](https://socialproof-iosebkhe.netlify.app/)
 
 - Semantic HTML5 markup
 - CSS custom properties
